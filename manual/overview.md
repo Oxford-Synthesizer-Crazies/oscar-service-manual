@@ -4,7 +4,7 @@ The Oxford Synthesizer Company OSCar is a digital-analog hybrid synthesizer,
 with both subtractive and additative synthesis, an arpeggiator and a sequencer,
 and an early MIDI implementation, although there may be synthesizers out there that doesn't have the MIDI add on.
 
-It was designed by Chris Hugget and manufactured between 1983 and 1985. Less than a thousand was manufactured.
+It was designed by Chris Hugget and manufactured between 1983 and 1985. Less than a thousand was manufactured. The highest known serial number is 854.
 
 ## Servicing the OSCar
 
@@ -21,8 +21,9 @@ The CPU circuit board is very heat sensitive and it's easy to damage it when sol
 The IC sockets are brittle, maybe because of age, and can crack. 
 They also require quite a high insertion force, so you should use tools both for IC removal and insertion in order to not damage the legs of the IC's.
 
-# Known OSCar repair companies
+## Known OSCar repair companies
 
 Here we will collect the contact information of companies and people who have experience with OSCars, so you can try to find one near you.
 
 If you want to be on this list, please email regebro@gmail.com, with some evidence that you have experience with OSCar synths.
+
