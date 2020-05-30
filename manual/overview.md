@@ -24,3 +24,5 @@ They also require quite a high insertion force, so you should use tools both for
 # Known OSCar repair companies
 
 Here we will collect the contact information of companies and people who have experience with OSCars, so you can try to find one near you.
+
+If you want to be on this list, please email regebro@gmail.com, with some evidence that you have experience with OSCar synths.
