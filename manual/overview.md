@@ -25,5 +25,30 @@ They also require quite a high insertion force, so you should use tools both for
 
 Here we will collect the contact information of companies and people who have experience with OSCars, so you can try to find one near you.
 
+* Virtual Music, Vienna Austria: https://www.virtual-music.at/en/oscar/
+
 If you want to be on this list, please email regebro@gmail.com, with some evidence that you have experience with OSCar synths.
+
+## Replacement parts
+
+### Knobs and caps
+
+The knobs are Sifam knobs, from their 150 series. I have not confirmed this, but DCK150 will probably fit.
+More importantly, are the replacement caps, which more frequently get lost. They are Sifam C151-BLK caps. You can get a pack of 5 from https://www.virtual-music.at/en/oscar/#spare and RS-Components usually have the caps in stock.
+
+### Keyboard
+
+The keyboard is of an unusual type that both Syntaur and Vintage Synth Parts call "Style 14U". I don't know where that style numbering comes from, but the best bet to find replacement keys are from those sources:
+
+* https://www.syntaur.com/keys.php?key=K14U
+* https://www.vintagesynthparts.com/oxford-synthesizer-company/
+
+Known Synthesizers to have used the same keybed are 
+
+* Siel: Mono, Orchestra and Cruise
+* Crumar: Trilogy, Stratus, Orchestra (AKA ARP Quartet) and some Performers
+* Jen: SX-1000
+* Sequential Ciruits: Prelude
+
+
 
